@@ -13,5 +13,8 @@
       ],
       "url": "https://rettend.github.io/eemoji/eemoji-config-schema.json"
     }
-  ]
+  ],
+  "github.copilot.enable": {
+    "rust": false
+  }
 }

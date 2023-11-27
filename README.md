@@ -1,6 +1,6 @@
 <img src="./.assets/christmas_ferris.png" width="164">
 
-# 🎄 Advent of Code {year}
+# 🎄 Advent of Code 2023
 
 [![eemoji](https://img.shields.io/badge/😎%20eemoji-fccf1d?style=for-the-badge)](
   https://github.com/Rettend/eemoji)
