@@ -1,0 +1,7 @@
+{
+  "format": "{emoji} {type} {subject}",
+  "emojis": {
+    "add": "🎁,🎅,🎄,❄️,☃️",
+    "progress": "🔹"
+  }
+}
